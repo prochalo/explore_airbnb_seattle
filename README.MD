@@ -58,4 +58,4 @@ Just one file in the root folder, I prefred to
   
 ### Acknowledgements<a name="acknowledgements"></a>
 
-This project use data from Kaggle that you can found [here] (https://www.kaggle.com/airbnb/seattle)
+This project use data from [Kaggle](https://www.kaggle.com/airbnb/seattle)
