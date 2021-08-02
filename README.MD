@@ -1,4 +1,4 @@
-# Data driven insights of Seattle AirBnB listings data
+# Plan a trip to Seattle at a low price by using Seattle AirBnB
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*-G93YyAeZLYLWNHKPqe9Tw.jpeg">
 </p>
